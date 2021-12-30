@@ -1,0 +1,17 @@
+header,
+h1,
+div {
+  margin: auto;
+  text-align: center;
+}
+
+h2,
+body {
+  padding: 0%;
+}
+
+body {
+  background-image: url("eight-hours.jpg");
+  background-size: cover;
+  background-color: rgb(223, 186, 142);
+}

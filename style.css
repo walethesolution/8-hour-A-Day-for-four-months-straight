@@ -15,8 +15,13 @@ body {
   padding: 0%;
 }
 
+h2 {
+  font-style: italic;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
 body {
   /*background-image: url("eight-hours.jpg");*/
-  background-size: cover;
+  /* background-size: cover; */
   background-color: rgb(223, 186, 142);
 }

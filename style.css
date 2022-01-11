@@ -21,7 +21,11 @@ h2 {
 }
 
 body {
-  /*background-image: url("eight-hours.jpg");*/
+  /* background-image: url("eight-hours.jpg"); */
   /* background-size: cover; */
   background-color: rgb(223, 186, 142);
+}
+
+img {
+  width: 100%;
 }

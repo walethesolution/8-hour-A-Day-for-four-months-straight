@@ -8,7 +8,7 @@
 This is a documentation of me learning how to code and coding for 4 months straight
 Every day includes topics learnt and the flow of that day 
 
-##Technologies
+## Technologies
 Project is created with:
 * HTML5
 * CSS3

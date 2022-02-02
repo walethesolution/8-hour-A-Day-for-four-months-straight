@@ -1,3 +1,7 @@
+html {
+  font-family: Helvetica, Arial, sans-serif;
+}
+
 header,
 h1,
 div {
@@ -27,9 +31,24 @@ h2 {
 body {
   /* background-image: url("eight-hours.jpg"); */
   /* background-size: cover; */
-  background-color: rgb(223, 186, 142);
+  background-color: #fff;
+}
+
+li,
+p {
+  line-height: 1.5;
 }
 
 img {
   width: 100%;
+}
+
+.task {
+  /* background-color: #a52a2a; */
+  text-align: center;
+}
+
+.task ul {
+  list-style: lower-greek;
+  list-style-position: inside;
 }
